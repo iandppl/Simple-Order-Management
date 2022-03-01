@@ -1,0 +1,21 @@
+{
+  "orderId": 1,
+  "customer": "John",
+  "paymentType": "Master Card",
+  "createdDate": "2022-03-01T07:15:12.318+00:00",
+  "createdBy": "Jenny",
+  "updatedDate": null,
+  "updatedBy": null,
+  "orderQuantityDtoList": [
+    {
+      "orderQuantityId": 13,
+      "quantity": 5,
+      "itemDto": {
+        "id": 1,
+        "size": "UK 30",
+        "price": 12.5,
+        "weight": 5.5
+      }
+    }
+  ]
+}
